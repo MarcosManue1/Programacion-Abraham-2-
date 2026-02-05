@@ -1,7 +1,8 @@
 package exceptions;
 
 import java.util.InputMismatchException;
-import java.util.Scanner;
+
+import utility.AskUser;
 
 /*
  * Write a program that asks for numbers, in order to display the result of adding all the inserted numbers. 
